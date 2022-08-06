@@ -12,7 +12,7 @@ Les listes des types de Roleplay, les caracteristiques, les avanantages, etc. so
 
 ## La licence
 
-Le projet ***RPG : Character Creator***, par son entrée sur GitHub, est désormais protégé par la licence **Apache License 2.0**. Cette licence interdit **strictement** :
+Le projet ***RPG : Character Creator***, par son entrée sur GitHub, est désormais protégé par la licence **GNU Affero General Public License v3.0**. Cette licence interdit **strictement** :
 > La copie du code et la distribution du projet sans autorisation **écrite** du ou des propriétaires.
 
 > Le don d'accès à une personne extérieure au projet sans autorisation **écrite**.
@@ -23,4 +23,4 @@ Le projet ***RPG : Character Creator***, par son entrée sur GitHub, est désorm
 
 > La modification du code par une personne extérieure à **HDMGame Studio** sans autorisation **écrite**.
 
-Toute enfreinte à la licence appliquée au projet sera **sanctionnée**, allant d'une rupture de contrat jusqu'à la **poursuite judiciaire**. Veillez donc à bien respecter les conditions décrites ci-dessus afin d'éviter tout problème légal. Pour plus d'informations sur la licence Apache, vous pouvez cliquer [ici](http://www.apache.org/licenses/).
+Toute enfreinte à la licence appliquée au projet sera **sanctionnée**, allant d'une rupture de contrat jusqu'à la **poursuite judiciaire**. Veillez donc à bien respecter les conditions décrites ci-dessus afin d'éviter tout problème légal. Pour plus d'informations sur la licence GNU AGPLv3.0, vous pouvez cliquer [ici](https://www.gnu.org/licenses/).
