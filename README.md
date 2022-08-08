@@ -5,7 +5,7 @@
 ***RPG : Character Creator*** est disponible en Français et en Anglais. La langue est modifiable dans le menu *Options* de l'application et plus de langues peuvent être ajoutées au fur et à mesure.
 
 ## Les listes
-Les listes des types de Roleplay, les caracteristiques, les avanantages, etc. sont toutes rangées et stockées directement dans l'application. Elles sont tout de même entreposées dans des fichier `.sql` qui servent ici de **bases de données de secours**. *(En cours de création)*
+Les listes des types de Roleplay, les caracteristiques, les avanantages, etc. sont toutes rangées et stockées directement dans l'application. Elles sont tout de même entreposées dans des fichier `.sql` et `.js` qui servent ici de **bases de données de secours**. *(En cours de création)*
 
 ## La keystore
 *(En cours de création)*
