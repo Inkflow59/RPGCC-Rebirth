@@ -1,1 +1,5 @@
 *.sql linguist-detectable=true
+*.sql linguist-language=sql
+
+*.mfa linguist-detectable=true
+*.mfa linguist-language=mfa
