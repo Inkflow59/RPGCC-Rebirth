@@ -1,5 +1,5 @@
 # RPG : Character Creator
-***RolePlay Game : Character Creator*** est une refonte complète de l'application ***RPG : Character Creator*** sortie le **19 juillet 2019** sur le [Google Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_valentinytb_vd.RPGCharachterCreator). Le projet a commencé le **3 Février 2022** après la fin de la première version de ***JokeGyver***. Le développement a été compliqué par des problèmes techniques, mais est toujours en cours de développement actuellement.
+***RolePlay Game : Character Creator*** est une refonte complète de l'application ***RPG : Character Creator*** sortie le **19 juillet 2019** sur le [Google Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_valentinytb_vd.RPGCharachterCreator). Le projet a commencé le **3 Février 2022** après la fin de la première version de ***JokeGyver***. Le développement a été compliqué par des problèmes techniques, mais est toujours en cours actuellement.
 
 ## Les langues disponibles
 ***RPG : Character Creator*** est disponible en Français et en Anglais. La langue est modifiable dans le menu *Options* de l'application et plus de langues peuvent être ajoutées au fur et à mesure.
