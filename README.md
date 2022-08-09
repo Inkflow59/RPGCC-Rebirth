@@ -1,6 +1,6 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-009dcf.svg)](https://www.python.org/)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-009dcf.svg)](https://www.javascript.com)
-[![made-with-mfa](https://img.shields.io/badge/Made%20with-Clickteam%20Fusion-009dcf.svg)](https://shields.io/)
+[![made-with-mfa](https://img.shields.io/badge/Made%20with-Clickteam%20Fusion-009dcf.svg)](https://www.clickteam.com/fr/clickteam-fusion-2-5)
 
 # RPG : Character Creator
 ***RolePlay Game : Character Creator*** est une refonte complète de l'application ***RPG : Character Creator*** sortie le **19 juillet 2019** sur le [Google Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_valentinytb_vd.RPGCharachterCreator). Le projet a commencé le **3 Février 2022** après la fin de la première version de ***JokeGyver***. Le développement a été compliqué par des problèmes techniques, mais est toujours en cours actuellement.
