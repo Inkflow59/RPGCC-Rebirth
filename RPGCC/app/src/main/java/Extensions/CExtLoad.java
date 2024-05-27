@@ -82,6 +82,11 @@ public class CExtLoad
 		else
 		{
 			// 
+if (name.compareToIgnoreCase("kcclock")==0)
+{
+object=new CRunkcclock();
+}
+
 if (name.compareToIgnoreCase("FontPacker")==0)
 {
 object=new CRunFontPacker();

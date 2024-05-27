@@ -1,10 +1,13 @@
-Checking the license for package Android SDK Platform 31 in C:\Users\Utilisateur\AppData\Local\Android\Sdk\licenses
-License for package Android SDK Platform 31 accepted.
-Preparing "Install Android SDK Platform 31 (revision: 1)".
-"Install Android SDK Platform 31 (revision: 1)" ready.
-Installing Android SDK Platform 31 in C:\Users\Utilisateur\AppData\Local\Android\Sdk\platforms\android-31
-"Install Android SDK Platform 31 (revision: 1)" complete.
-"Install Android SDK Platform 31 (revision: 1)" finished.
+WARNING:We recommend using a newer Android Gradle plugin to use compileSdk = 34
+
+This Android Gradle plugin (7.4.2) was tested up to compileSdk = 33
+
+This warning can be suppressed by adding
+    android.suppressUnsupportedCompileSdk=34
+to this project's gradle.properties
+
+The build will continue, but you are strongly encouraged to update your project to
+use a newer Android Gradle Plugin that has been tested with compileSdk = 34
 > Task :app:preBuild UP-TO-DATE
 > Task :app:preDebugBuild UP-TO-DATE
 > Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
@@ -24,18 +27,18 @@ Installing Android SDK Platform 31 in C:\Users\Utilisateur\AppData\Local\Android
 > Task :app:compileDebugShaders NO-SOURCE
 > Task :app:generateDebugAssets UP-TO-DATE
 > Task :app:mergeDebugAssets
-> Task :app:processDebugJavaRes NO-SOURCE
 > Task :app:compressDebugAssets
-> Task :app:checkDebugDuplicateClasses
 > Task :app:mergeDebugResources
+> Task :app:processDebugJavaRes NO-SOURCE
+> Task :app:checkDebugDuplicateClasses
 > Task :app:mergeDebugJavaResource
 > Task :app:mergeDebugJniLibFolders
 > Task :app:desugarDebugFileDependencies
-> Task :app:mergeDebugNativeLibs
 > Task :app:validateSigningDebug
 > Task :app:writeDebugAppMetadata
 > Task :app:writeDebugSigningConfigVersions
 > Task :app:processDebugManifestForPackage
+> Task :app:mergeDebugNativeLibs
 
 > Task :app:stripDebugDebugSymbols
 Unable to strip the following libraries, packaging them as they are: libES1Renderer.so, libES2Renderer.so, libES3Renderer.so, libRuntimeNative.so, libgdx.so.
@@ -55,5 +58,5 @@ Note: Recompile with -Xlint:unchecked for details.
 > Task :app:createDebugApkListingFileRedirect
 > Task :app:assembleDebug
 
-BUILD SUCCESSFUL in 55s
+BUILD SUCCESSFUL in 7s
 30 actionable tasks: 30 executed

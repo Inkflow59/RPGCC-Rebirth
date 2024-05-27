@@ -421,7 +421,7 @@ public abstract class CCnd extends CEvent
 						//d = new CND_EXTCMPLAYER();
 						break;
 					case (-45 << 16):
-						//d = new CND_EXTCOMPARE();
+						cnd = new CND_EXTCOMPARE();
 						break;
 					case (-44 << 16):
 						//d = new CND_EXTPICKCLOSEST();
