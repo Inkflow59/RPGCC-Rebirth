@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Fusion_fullscreen" parent="android:Theme.DeviceDefault.NoActionBar.Fullscreen">
+<!--        <item name="android:windowLayoutInDisplayCutoutMode" tools:targetApi="P">@integer/insets_Mode</item>-->
+        <item name="android:buttonStyle">@style/CustomHoloButtonStyle</item>
+    </style>
+
+    <style name="Theme.Fusion_actionbar" parent="android:Theme.DeviceDefault">
+<!--        <item name="android:windowLayoutInDisplayCutoutMode" tools:targetApi="P">@integer/insets_Mode</item>-->
+        <item name="android:buttonStyle">@style/CustomHoloButtonStyle</item>
+     </style>
+
+    <style name="CustomHoloButtonStyle" parent="@android:style/Widget.Holo.Button">
+        <item name="android:minHeight">1dip</item>
+        <item name="android:minWidth">1dip</item>
+    </style>
+</resources>
