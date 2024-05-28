@@ -1,4 +1,8 @@
 [![made-with-java](https://img.shields.io/badge/Made%20with-Java-009dcf.svg)](https://www.java.com/)
+[![made-with-c](https://img.shields.io/badge/Made%20with-C-009dcf.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![made-with-c++](https://img.shields.io/badge/Made%20with-C++-009dcf.svg)](https://en.wikipedia.org/wiki/C++)
+[![made-with-objective-c](https://img.shields.io/badge/Made%20with-Objective%20C-009dcf.svg)](https://en.wikipedia.org/wiki/Objective-C)
+[![made-with-glsl](https://img.shields.io/badge/Made%20with-GLSL-009dcf.svg)](https://en.wikipedia.org/wiki/OpenGL_Shading_Language)
 [![made-with-mfa](https://img.shields.io/badge/Made%20with-Clickteam%20Fusion-009dcf.svg)](https://www.clickteam.com/fr/clickteam-fusion-2-5)
 [![made-with-markdown](https://img.shields.io/badge/Made%20with-Markdown-009dcf.svg)](https://daringfireball.net/projects/markdown/)
 
