@@ -3,24 +3,21 @@
 [![made-with-markdown](https://img.shields.io/badge/Made%20with-Markdown-009dcf.svg)](https://daringfireball.net/projects/markdown/)
 
 # RPG : Character Creator (Rebirth)
-***RolePlay Game : Character Creator*** est une refonte complète de l'application ***RPG : Character Creator*** sortie le **19 juillet 2019** sur le [Google Play Store](https://play.google.com/store/apps/details?id=appinventor.ai_valentinytb_vd.RPGCharachterCreator). Le projet a commencé le **3 Février 2022** après la fin de la première version de ***JokeGyver***. Le développement a été compliqué par des problèmes techniques, mais est toujours en cours actuellement.
+***RolePlay Game: Character Creator*** is a complete overhaul of the ***RPG: Character Creator*** application released on **July 19, 2019** on the **Google Play Store** *(retired now)*. The project started on **February 3, 2022** after the first version of JokeGyver was completed. Development has been complicated by technical issues, but is *still underway currently*.
 
-## Les langues disponibles
-***RPG : Character Creator*** est disponible en Français et en Anglais. La langue est modifiable dans le menu *Options* de l'application et plus de langues peuvent être ajoutées au fur et à mesure.
+## Available languages
+***RPG : Character Creator*** is available in French and in English. The language is changeable in the *Options* menu of the application and more languages can be added over time.
 
-## Les listes
-Les listes des types de Roleplay, les caracteristiques, les avanantages, etc. sont toutes rangées et stockées directement dans l'application. Elles sont tout de même entreposées dans des fichier `.sql`, `.py` et `.js` qui servent ici de **bases de données de secours**. *(En cours de création)*
+## Licence
+The ***RPG: Character Creator*** project, through its entry on GitHub, is now protected by the **GNU Affero General Public License v3.0** license. This license **strictly** prohibits:
+> Copying the code and distributing the project without **written** authorization from the owner(s).
 
-## La licence
-Le projet ***RPG : Character Creator***, par son entrée sur GitHub, est désormais protégé par la licence **GNU Affero General Public License v3.0**. Cette licence interdit **strictement** :
-> La copie du code et la distribution du projet sans autorisation **écrite** du ou des propriétaires.
+> The grant of access to a person outside the project without **written** authorization.
 
-> Le don d'accès à une personne extérieure au projet sans autorisation **écrite**.
+> Publishing a third-party application using the exact same code.
 
-> La publication d'une application tierce utilisant l'exact même code.
+> Commercial use to a person or company other than **HDMGame Studio** and its collaborators.
 
-> L'utilisation commerciale à une personne ou entreprise autre que **HDMGame Studio** et ses collaborateurs.
+> Modification of the code by a person outside **HDMGame Studio** without **written** authorization.
 
-> La modification du code par une personne extérieure à **HDMGame Studio** sans autorisation **écrite**.
-
-Toute enfreinte à la licence appliquée au projet sera **sanctionnée**, allant d'une rupture de contrat jusqu'à la **poursuite judiciaire**. Veillez donc à bien respecter les conditions décrites ci-dessus afin d'éviter tout problème légal. Pour plus d'informations sur la licence GNU AGPLv3.0, vous pouvez cliquer [ici](https://www.gnu.org/licenses/).
+Any violation of the license applied to the project will be **sanctioned**, ranging from breach of contract to **legal action**. So be sure to respect the conditions described above in order to avoid any legal problems. For more information about the GNU AGPLv3.0 license, you can click [here](https://www.gnu.org/licenses/).
