@@ -13,9 +13,6 @@
 ## Les listes
 Les listes des types de Roleplay, les caracteristiques, les avanantages, etc. sont toutes rangées et stockées directement dans l'application. Elles sont tout de même entreposées dans des fichier `.sql`, `.py` et `.js` qui servent ici de **bases de données de secours**. *(En cours de création)*
 
-## La keystore
-*(En cours de création)*
-
 ## La licence
 
 Le projet ***RPG : Character Creator***, par son entrée sur GitHub, est désormais protégé par la licence **GNU Affero General Public License v3.0**. Cette licence interdit **strictement** :
