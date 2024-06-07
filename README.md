@@ -25,8 +25,3 @@ The ***RPG: Character Creator*** project, through its entry on GitHub, is now pr
 > Modification of the code by a person outside **HDMGame Studio** without **written** authorization.
 
 Any violation of the license applied to the project will be **sanctioned** by a **legal action**. So be sure to respect the conditions described above in order to avoid any legal problems. For more information about the GNU AGPLv3.0 license, you can click [here](https://www.gnu.org/licenses/).
-
-## Release forecasts
-- The **Android** version of the application is expected to be released at the end of *June 2024*
-- The **iOS** version of the application should be released at the end of *July 2024 **(in beta)***
-- The **Windows *(software)*** version of the application is expected to be released at the end of *September 2024*
